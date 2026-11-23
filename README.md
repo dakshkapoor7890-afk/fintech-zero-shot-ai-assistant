@@ -5,10 +5,10 @@
 **Institution:** Chitkara University  
 **Program:** BBA FinTech  
 **Lab:** 1 — Zero-Shot Prompting  
-**Student:** [Full Name]  
-**Student ID:** [ID]  
+**Student:** Dakshkapoor 
+**Student ID:** 2620992570  
 **Academic Session:** 2026–2027  
-**AI Tool/Model:** [Tool and model used]  
+**AI Tool/Model:** chat gpt 
 **Status:** Educational Prototype
 
 ---
